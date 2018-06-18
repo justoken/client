@@ -1,0 +1,32 @@
+{
+  "name": "just_client",
+  "description": "JUST Client",
+  "version": "1.0.0",
+  "homepage": "https://justoken.io",
+  "author": "JUSToken",
+  "license": "MIT",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.8.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-install": "^1.1.0",
+    "gulp-open": "^2.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.3"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justoken/client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justoken/client/issues"
+  }
+}
