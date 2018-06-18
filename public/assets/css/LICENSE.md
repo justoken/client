@@ -1,6 +1,6 @@
 MIT License
 
-Original work Copyright (c) 2017 Creative Tim, Modified work Copyright (c) 2018 JUSToken
+Modified work Copyright (c) 2018 JUSToken, Original work Copyright (c) 2017 Creative Tim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
